@@ -1,6 +1,8 @@
 ## Olá 👋
+## Meu nome é Carlos Henrique sou Desenvolvedor Frontend júnior. 
+## Apaixonado por tecnologia e inovação estou sempre buscando aprender coisas novas.
 
-## Bem-vindo(a) ao perfil do Carlos H Nascimento 👨‍💻
+
 
 
  <div>
